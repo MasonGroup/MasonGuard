@@ -7,7 +7,7 @@ Anti-Debugging: The library can include anti-debugging techniques to prevent att
 Anti-Tamper: The library includes techniques to prevent tampering with the code or modifying it after obfuscation. This helps maintain the integrity of the code and prevent unauthorized changes.
 ---
 # ![Freemasonry](https://i.ibb.co/bN4jTcm/image.png)
----
+
  Advantages:
  ---
 ***•*** Protects source code from reverse engineering
