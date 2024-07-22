@@ -1,5 +1,3 @@
-# MasonGuard - Python Obfuscator
-
 # **Obfuscation**:
 
 The library obfuscates the source code, making it difficult to read or understand. This is achieved by renaming variables and functions, as well as restructuring the code.
