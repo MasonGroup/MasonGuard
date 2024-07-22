@@ -1,5 +1,5 @@
 # MasonGuard - Python Obfuscator
----
+
 Obfuscation: The library obfuscates the source code, making it difficult to read or understand. This is achieved by renaming variables and functions, as well as restructuring the code.
 ---
 Anti-Debugging: The library can include anti-debugging techniques to prevent attackers from using debugging tools to analyze or trace the execution of the code.
