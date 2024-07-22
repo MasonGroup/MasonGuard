@@ -17,6 +17,6 @@ The tool includes techniques to prevent code from being tampered with or modifie
 
 ***•*** Reduces the likelihood of tampering or unauthorized modifications
 
-***•*** Provides an additional layer of security for Python programs
+***•*** Provides an additional layer of security for python programs
 
 ---
