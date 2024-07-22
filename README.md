@@ -8,8 +8,8 @@ Anti-Tamper: The library includes techniques to prevent tampering with the code 
 --
  Advantages:
  ---
- Protects source code from reverse engineering.
+•  Protects source code from reverse engineering.
  
- Reduces the likelihood of tampering or unauthorized modifications.
+•  Reduces the likelihood of tampering or unauthorized modifications.
  
- Provides an additional layer of security for Python programs.
+•  Provides an additional layer of security for Python programs.
