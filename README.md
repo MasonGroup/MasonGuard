@@ -7,9 +7,6 @@ Anti-Debugging: The library can include anti-debugging techniques to prevent att
 Anti-Tamper: The library includes techniques to prevent tampering with the code or modifying it after obfuscation. This helps maintain the integrity of the code and prevent unauthorized changes.
 --
 > Advantages:
----
 > Protects source code from reverse engineering.
-> 
 > Reduces the likelihood of tampering or unauthorized modifications.
-> 
 > Provides an additional layer of security for Python programs.
