@@ -1,13 +1,13 @@
 # **Obfuscation**:
-The library obfuscates the source code, making it difficult to read or understand. This is achieved by renaming variables and functions, as well as restructuring the code.
+The Tool obfuscates the source code, making it difficult to read or understand. This is achieved by renaming variables and functions, as well as restructuring the code
 ---
 
 # **Anti-Debugging**:
-The library can include anti-debugging techniques to prevent attackers from using debugging tools to analyze or trace the execution of the code.
+The Tool can include anti-debugging techniques to prevent attackers from using debugging tools to analyze or trace the execution of the code
 ---
 
 # **Anti-Tamper**:
-The library includes techniques to prevent tampering with the code or modifying it after obfuscation. This helps maintain the integrity of the code and prevent unauthorized changes.
+The tool includes techniques to prevent code from being tampered with or modified after obfuscation. This helps maintain code integrity and prevent unauthorized changes
 ---
 
 # ![Freemasonry](https://i.ibb.co/bN4jTcm/image.png)
