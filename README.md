@@ -13,3 +13,4 @@ Anti-Tamper: The library includes techniques to prevent tampering with the code 
 ***•*** Reduces the likelihood of tampering or unauthorized modifications.
  
 ***•*** Provides an additional layer of security for Python programs.
+---
